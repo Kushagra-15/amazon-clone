@@ -1,0 +1,118 @@
+*{ 
+
+    margin:0;
+    font-family:Arial;
+    border: border-box;
+}
+.panel1{
+    background-color: white;
+    height: 1000px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.profile{
+    background-color: rgba(16, 16, 202, 0.315);
+    height: 100%;
+    width: 25%;
+    margin-right:75% ;
+
+}
+.cont{
+    margin-left: 20px;
+}
+
+.info{
+    color: black;
+    margin-top: 200px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: medium;
+    margin-left: 40px;
+    
+}
+.head{
+    text-decoration: underline;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.all{
+    margin-left: 20px;
+    font-size: 17px;
+    font-weight: bold;
+}
+.panel2{
+    
+    margin-left: 550px;
+    color: darkblue;
+    font-size: 13px;
+    text-decoration: underline;
+    display: flex;
+
+}
+.about p{
+   margin-left: 400px;
+    color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    width: 900px;
+    margin-bottom: 10px;
+    
+    padding: 30px;
+    font-weight: 900;
+}
+.edu p {
+    padding: 0;
+    color: darkblue;
+    margin-top: 0%;
+    margin-left: 370px;
+    font-weight: 600;
+    font-size: 19px;
+    width: 70%;
+    text-decoration: underline;
+}
+.pq{
+    background-color: black;
+}
+
+.college{
+    margin-top: 10px;
+    font-size: 13px;
+    margin-left: 390px;
+    margin-bottom: 10px;
+}
+.hsec{
+    margin-top: 10px;
+    font-size: 13px;
+    margin-left: 390px;
+    margin-bottom: 10px;
+}
+.sch{
+    margin-top: 10px;
+    font-size: 13px;
+    margin-left: 390px;
+    margin-bottom: 10px;
+}
+.achv p{
+    padding: 0;
+    color: darkblue;
+    margin-top: 0%;
+    margin-left: 370px;
+    font-weight: 600;
+    font-size: 19px;
+    width: 70%;
+    text-decoration: underline;
+}
+.inf p{
+    margin-top: 10px;
+    font-size: 13px;
+    margin-left: 390px;
+    margin-bottom: 10px;
+    color: black;
+    text-decoration: none;
+}

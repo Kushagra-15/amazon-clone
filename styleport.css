@@ -1,0 +1,23 @@
+.{
+    margin: 0;
+    padding: 0;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+body{
+    background-color: antiquewhite;
+}
+nav {
+    font-family: 'Courier New', Courier, monospace;
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    height: 65px;
+    background-color: black;
+
+}
+.brand img{
+    width: 44px;
+}

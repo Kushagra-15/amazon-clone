@@ -1,0 +1,35 @@
+/* *{ 
+
+    margin:0;
+    font-family:Arial;
+    border: border-box;
+} */
+
+.box1{
+    height: 100vw;
+    width: 100vh;
+    background-color: black;
+    border: 2px black solid;
+    margin: 20px 20px 20px 20px;
+    padding: 5px 5px 5px 5px;
+
+}
+.box2{
+    width: 50%;
+    height: 50%;
+    background-color: blue;
+    border: 2px white;
+    margin: 15px 15px 15px 15px;
+     padding: 5px 5px 5px 5px;
+
+    
+}
+.box3{
+    height: 25%;
+    width: 25%;
+    margin: 10px 10px 10px 10px;
+    background-color: white;
+    margin: 2px white;
+    padding: 5px 5px 5px 5px;
+
+}
